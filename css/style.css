@@ -1,0 +1,9 @@
+#mycanvas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background: black;
+    /*border: 1px solid black;*/
+    margin-left: -300px;
+    margin-top: -300px;
+}
